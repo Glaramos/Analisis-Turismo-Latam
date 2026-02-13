@@ -1,5 +1,7 @@
 # 📊 Análisis del Turismo en América Latina (2018–2022)
 
+![alt text](<informe turismo-1.jpg>)
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto presenta un análisis comparativo del desempeño turístico en países de América Latina entre los años 2018 y 2022.
