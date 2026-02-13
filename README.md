@@ -1,6 +1,6 @@
 # 📊 Análisis del Turismo en América Latina (2018–2022)
 
-![alt text](<informe turismo-1.jpg>)
+![alt text](<informe turismo.jpg>)
 
 ## 📌 Descripción del Proyecto
 
@@ -47,3 +47,4 @@ Esto abre oportunidades para diseñar estrategias específicas de fortalecimient
 
 Gladys Ramos
 Analista de Datos
+
